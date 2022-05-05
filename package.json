@@ -1,0 +1,15 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "probot run probot-settings"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "probot": "^12.2.2",
+    "probot-settings": "github:probot/settings"
+  }
+}
