@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "probot run probot-settings"
+    "start": "probot run probot-settings",
+    "test": "timeout --preserve-status 5s npm start"
   },
   "author": "",
   "license": "ISC",
