@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "probot run probot-settings",
-    "test": "timeout 5s npm start || [[ $? == 124 ]]"
+    "start": "probot run probot-settings"
   },
   "author": "",
   "license": "ISC",
